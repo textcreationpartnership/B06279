@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late action and victory against the rebels in England, near Bridgewater, on Monday the 6. of July, 1685, from several hands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06279</idno>
+            <idno type="STC">Wing T2974A</idno>
+            <idno type="STC">ESTC R185694</idno>
+            <idno type="EEBO-CITATION">53299340</idno>
+            <idno type="OCLC">ocm 53299340</idno>
+            <idno type="VID">180062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180062)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2812:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late action and victory against the rebels in England, near Bridgewater, on Monday the 6. of July, 1685, from several hands.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:180062:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>A True RELATION <hi>Of the late Action and Victory againſt the Rebels in</hi> England, <hi>near</hi> Bridgewater, <hi>on</hi> Monday <hi>the</hi> 6. <hi>of</hi> July, 1685, <hi>From ſeveral Hands.</hi>
+            </head>
+            <p>THE Rebels having exact Notice how the Kings Army was Encamped, did on Monday 6th. Inſtant, about 2 a clock in the Morning, with an extraordinary Silence, march towards it, with a Deſign to fall upon the Right Wing, where the five Companies of the Kings Royal Regiment of Foot, under the Earl of <hi>Dumbartoun</hi>'s Command, were poſted, and were ſo near, that the Companies had ſcarce time to form their Battallion, when they were charg'd very briskly by three of the Enemies Battallions, whoſe Fire they received very patiently, till they were advanced within 30 Paces of them; then the <hi>Scots</hi> Fired upon them ſo Vigorouſly, that they made them reel; but by the Inſtigation of their Commanders Rallied again. The Rebells had two pieces of Cannon playing with ſmall Shot on the Camp all this while, which continued a large half hour, during which time, the five Companies maintained the Fight a<g ref="char:EOLhyphen"/>gainſt all the Efforts of the Enemies, with the loſs of a conſiderable num<g ref="char:EOLhyphen"/>ber of men on both ſides: At laſt the Dragoons came up to the Compa<g ref="char:EOLhyphen"/>nies with one piece of Cannon, and the General on the Head of them, encouraging and deſiring them to Charge the Rebels, which they perform'd ſo vigorouſly, that they beat them into the middle of the plain Field, where the Horſe Guards and <hi>Oxford</hi>'s Regiment of Horſe charged their Cavalry. The <hi>Scots</hi> purſued the Rebels over a great many Ditches, killed a conſiderable number of them, took 300 Pri<g ref="char:EOLhyphen"/>ſoners, the 2 piece of Cannon and 5 Colours for their own ſhare, one of which is the Grand Rebels own Colours, with Motto in Gold Letters, <hi>Fear nothing but GOD,</hi> the firſt he Landed with in <hi>England,</hi> taken as it is reported, by Captain <hi>Robert Hacket.</hi> The Dragoons, and ſome of the Kings Battallions of Foot, took ſeveral other Co<g ref="char:EOLhyphen"/>lours, and a great many Priſoners. The Account of the Killed and Wounded follows.</p>
+            <list>
+               <item>Cap. <hi>Moncrief</hi> Wounded.</item>
+               <item>Liev. <hi>Griffon</hi> Mortally Wounded.</item>
+               <item>Leiv. <hi>Law</hi> Wounded.</item>
+               <item>Liev. <hi>Bruce</hi> Wounded.</item>
+               <item>Liev <hi>Stirling</hi> Wounded.</item>
+               <item>Liev <hi>Dury</hi> Wounded</item>
+               <item>Enſign <hi>Mowat</hi> Mortally Wounded.</item>
+               <item>En. <hi>Lindſey</hi> Mortally Wounded.</item>
+               <item>En. <hi>Macculloch</hi> Wounded.</item>
+               <item>En. <hi>Lundy</hi> Kill'd.</item>
+               <item>Souldiers Killed 29. Wounded 67.</item>
+               <item>whereof many Mortally Wounded.</item>
+            </list>
+            <p>
+               <pb n="2" facs="tcp:180062:1"/>
+               <!-- PDF PAGE 15 -->
+It is believed they Killed and Wounded more than all the Army be<g ref="char:EOLhyphen"/>ſides. The Gentlemen and the other General Officers gave them thanks for the Victory of the Day.</p>
+            <div type="part">
+               <head>
+                  <hi>London,</hi> July 14.</head>
+               <p>A Yaught is ordered from hence for <hi>Edinburgh,</hi> to fetch Sir <hi>John Cochran</hi> and <hi>Aleife</hi> hither, who its ſaid will make a full Diſcovery of the Plot, Conſpiracy, and Rebellion.</p>
+               <p>
+                  <hi>James Scot</hi> late Duke of <hi>Monmouth, Ford</hi> late Lord <hi>Gray,</hi> and one <hi>Baicon</hi> a Dutch-man were brought yeſterday by Guard of about 1500: Horſe, from <hi>Frankholm</hi> Caſtle, where they lay on Sunday Night, to <hi>Floxhall,</hi> to which place they came about One a Clock, where they were met with the Kings Barges, double Manned with my Lord <hi>Dartmouths</hi> Fuſiers, they carried them from <hi>Floxhall</hi> to <hi>Reluthall,</hi> where they ſtayed from that time till after Seven half an Hour, and Supt at Mr. <hi>Cluffens</hi> Lodging: <hi>Monmouth</hi> before he came to this Town, wrot Letters to His <hi>Majeſty</hi> very ſubmiſſively, and to the Queen Dowager, and Lord Theſaurer; in that to His <hi>Majeſty,</hi> he humbly deſired he would permit him to ſee His Face; His <hi>Majeſty</hi> granted his deſire, and while he was at <hi>Whitehall</hi> Yeſterday half an Hour, no Body being preſent but the two Principal Secretaries of State. As ſoon as it was Flood, they were put on Board the Barges, and carried thorow Bridge, and ſo into the Tower, through Traitors Gate.</p>
+               <p>From <hi>Rotterdam</hi> they write, That an <hi>Engliſh</hi> Ship is arrived there with above 150 <hi>Engliſh</hi> on Board, who are to inhabite on theſe parts.</p>
+               <p>This day the Sheriffs of <hi>London</hi> and <hi>Middleſex</hi> were at the Tower, to acquaint <hi>James Scot</hi> late Duke of <hi>Monmouth,</hi> that he muſt prepare for Death, he being to ſuffer to Morrow between the Hours of Nine and Twelve, on the Tower-hill: To which the Scaffold is making ready, being in the ſame place where the Lord <hi>Stafford,</hi> and Collonel <hi>Sidney</hi> died.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
